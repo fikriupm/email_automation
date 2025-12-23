@@ -1,0 +1,16 @@
+1. download python, add path to the env
+verify installation using "python --version"
+
+2. create folder for python app 
+install pandas "pip install pandas openpyxl" / "python -m pip  install pandas openpyxl"
+
+3. create gmail app password -> https://myaccount.google.com/security
+find app password, then generate 16 char password
+
+4. adjust all the requirement needed (email list, info)
+
+5. python send_email.py
+
+
+
+
